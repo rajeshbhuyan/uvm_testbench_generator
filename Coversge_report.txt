@@ -1,0 +1,5 @@
+Merge coverage in imc Cadence tool.
+
+Add all the .UCD paths to a file e.g. list_cov_dir
+Use the below command to merge
+imc -execcmd "merge -runfiles -out merged_cov"
