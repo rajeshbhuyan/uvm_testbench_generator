@@ -16,4 +16,4 @@ after -o give the list of passive agent by space
 
 It will generate a directory named as <project>(the name after -p <project>)
 inside that directory doc, rtl, dv directory will be created.
-nside dv directory agent,env, sim, tb, tests directories will be created. 
+Inside dv directory agent,env, sim, tb, tests directories will be created. 
